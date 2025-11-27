@@ -30,13 +30,13 @@ I am always excited to work with highly self-motivated students on interesting r
 
 # 📝 Publications 
 
-- Siyuan Li , Yaowen Zheng , Hong Li , Jingdong Guo , Chaopeng Dong , Chunpeng Yan , Weijie Wang , Yimo Ren , Limin Sun  and Hongsong Zhu. LLM-driven Code Slice Semantic Search for Patch Presence Testing .ASE2025 (CCF-A)
-- Siyuan Li , Kaiyu Xie , Yuekang Li , Hong Li , Yimo Ren , Limin Sun  and Hongsong Zhu. TransferFuzz-Pro: Large Language Model Driven Code Debugging Technology for Verifying Propagated Vulnerability .TSE 2025 (CCF-A)
-- Siyuan Li , Yuekang Li , Zuxin Chen , Chaopeng Dong , Yongpan Wang , Hong Li , Yongle Chen  and HongSong Zhu. TransferFuzz: Fuzzing with Historical Trace for Verifying Propagated Vulnerability Code .ICSE 2025 (CCF-A)
-- Siyuan Li , Yongpan Wang , Chaopeng Dong , Shouguo Yang , Hong Li , Hao Sun , Zhe Lang , Zuxin Chen , Weijie Wang , Hongsong Zhu  and Limin Sun. LibAM: An Area Matching Framework for Detecting Third-Party Libraries in Binaries .TOSEM 2023 (CCF-A)
-- Zuxin Chen , Yaowen Zheng , Hong Li , Siyuan Li , Weijie Wang , Dongliang Fang , Zhiqiang Shi  and Limin Sun. PREXP: Uncovering and Exploiting Security-Sensitive Objects in the Linux Kernel .TIFS 2025 (CCF-A)
-- Yongpan Wang , Hong Li , Xiaojie Zhu , Siyuan Li , Chaopeng Dong , Shouguo Yang  and Kangyuan Qin. BinEnhance: An Enhancement Framework Based on External Environment Semantics for Binary Code Search .NDSS 2025 (CCF-A)
-- Chaopeng Dong , Siyuan Li , Shouguo Yang , Yang Xiao , Yongpan Wang , Hong Li , Zhi Li  and Limin Sun. LibvDiff: Library Version Difference Guided OSS Version Identification in Binaries .ICSE 2024 (CCF-A)
+- [ASE’2025] **Siyuan Li** , Yaowen Zheng , Hong Li , Jingdong Guo , Chaopeng Dong , Chunpeng Yan , Weijie Wang , Yimo Ren , Limin Sun  and Hongsong Zhu. LLM-driven Code Slice Semantic Search for Patch Presence Testing. <span style="color:red; font-weight:bold;">(CCF-A)</span>
+- [TSE'25] **Siyuan Li** , Kaiyu Xie , Yuekang Li , Hong Li , Yimo Ren , Limin Sun  and Hongsong Zhu. TransferFuzz-Pro: Large Language Model Driven Code Debugging Technology for Verifying Propagated Vulnerability. <span style="color:red; font-weight:bold;">(CCF-A)</span>
+- [ICSE'25] **Siyuan Li** , Yuekang Li , Zuxin Chen , Chaopeng Dong , Yongpan Wang , Hong Li , Yongle Chen  and HongSong Zhu. TransferFuzz: Fuzzing with Historical Trace for Verifying Propagated Vulnerability Code. <span style="color:red; font-weight:bold;">(CCF-A)</span>
+- [TOSEM'23] **Siyuan Li** , Yongpan Wang , Chaopeng Dong , Shouguo Yang , Hong Li , Hao Sun , Zhe Lang , Zuxin Chen , Weijie Wang , Hongsong Zhu  and Limin Sun. LibAM: An Area Matching Framework for Detecting Third-Party Libraries in Binaries. <span style="color:red; font-weight:bold;">(CCF-A)</span>
+- [TIFS'25] Zuxin Chen , Yaowen Zheng , Hong Li , **Siyuan Li** , Weijie Wang , Dongliang Fang , Zhiqiang Shi  and Limin Sun. PREXP: Uncovering and Exploiting Security-Sensitive Objects in the Linux Kernel. <span style="color:red; font-weight:bold;">(CCF-A)</span>
+- [NDSS'25] Yongpan Wang , Hong Li , Xiaojie Zhu , **Siyuan Li** , Chaopeng Dong , Shouguo Yang  and Kangyuan Qin. BinEnhance: An Enhancement Framework Based on External Environment Semantics for Binary Code Search. <span style="color:red; font-weight:bold;">(CCF-A)</span>
+- [ICSE'24] Chaopeng Dong , **Siyuan Li** , Shouguo Yang , Yang Xiao , Yongpan Wang , Hong Li , Zhi Li  and Limin Sun. LibvDiff: Library Version Difference Guided OSS Version Identification in Binaries. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 
 # 🎖 Honors and Awards
 - *2025*: Outstanding Graduate.
