@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor at the School of Cyber Science and Technology, Shandong University. I earned my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences.
+I am an Associate Professor at the School of Cyber Science and Technology, Shandong University [🔗](https://faculty.sdu.edu.cn/lisiyuan12/zh_CN/index.htm). I earned my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences.
 My research interests focus on software supply chain security, including program analysis, vulnerability analysis, and application of AI.
 My research has been published in several premier international conferences and journals, including ICSE, ASE, NDSS, TOSEM, TSE and so on.
 
