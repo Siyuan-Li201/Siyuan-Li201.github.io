@@ -24,9 +24,22 @@ My research has been published in several premier international conferences and 
 I am always excited to work with highly self-motivated students on interesting research problems. I particularly welcome students at all levels to join our research projects or participate in research competitions.
 
 
+# 💡 Intrests
+- **Software Supply Chain Security**
+  - Program Analysis, Vulnerability Analysis, AI-BOM/Cryptography-BOM.
+- **Code Intelligence**
+  - Code Representation, Code Verification, Code Generation.
+
+
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by the ASE 2025.
 - *2025.07*: &nbsp;🎉🎉 One paper was accepted by the TSE 2025. 
+
+
+# 📖 Educations
+- *2020.09 - 2025.06*, Institute of Information Engineering, Chinese Academy of Sciences. PhD in Cyber Space Security.
+- *2016.09 - 2020.06*, Shandong University.  Bachelor's Degree in Machine Engineering.
+
 
 # 📝 Publications 
 
@@ -51,8 +64,3 @@ I am always excited to work with highly self-motivated students on interesting r
 - *2024*: National Scholarship.
 - *2024*: Honorable Prize of IIE, CAS.
 - *2022*: 3rd Prize, CCF Big Data & Computing Intelligence Contest
-
-
-# 📖 Educations
-- *2020.09 - 2025.06*, Institute of Information Engineering, Chinese Academy of Sciences. PhD in Cyber Space Security.
-- *2016.09 - 2020.06*, Shandong University.  Bachelor's Degree in Machine Engineering.
