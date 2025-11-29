@@ -26,7 +26,7 @@ I am always excited to work with highly self-motivated students on interesting r
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by the ASE 2025.
-- *2022.07*: &nbsp;🎉🎉 One paper was accepted by the TSE 2025. 
+- *2025.07*: &nbsp;🎉🎉 One paper was accepted by the TSE 2025. 
 
 # 📝 Publications 
 
