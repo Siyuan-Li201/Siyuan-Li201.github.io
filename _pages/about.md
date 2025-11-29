@@ -26,7 +26,7 @@ I am always excited to work with highly self-motivated students on interesting r
 
 # 💡 Intrests
 - **Software Supply Chain Security**
-  - Program Analysis, Vulnerability Analysis, AI-BOM/Cryptography-BOM.
+  - Program Analysis, Vulnerability Analysis.
 - **Code Intelligence**
   - Code Representation, Code Verification, Code Generation.
 
