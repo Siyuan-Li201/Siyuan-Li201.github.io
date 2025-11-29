@@ -37,7 +37,7 @@ I am always excited to work with highly self-motivated students on interesting r
 
 
 # 📖 Educations
-- *2020.09 - 2025.06*, Institute of Information Engineering, Chinese Academy of Sciences. PhD in Cyber Space Security.
+- *2020.09 - 2025.06*, Institute of Information Engineering, Chinese Academy of Sciences. PhD in Cyber Security.
 - *2016.09 - 2020.06*, Shandong University.  Bachelor's Degree in Machine Engineering.
 
 
