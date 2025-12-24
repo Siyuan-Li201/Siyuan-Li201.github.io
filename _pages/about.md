@@ -33,7 +33,10 @@ I am always excited to work with highly self-motivated students on interesting r
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper was accepted by the FSE 2026.
+- *2025.11*: &nbsp;🎉🎉 Our team awarded DataCon2025大数据安全分析竞赛 「软件供应链安全赛道」 三等奖
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted by the ASE 2025.
+- *2025.09*: &nbsp;🎉🎉 One paper was accepted by the TIFS 2025.
 - *2025.07*: &nbsp;🎉🎉 One paper was accepted by the TSE 2025. 
 
 
@@ -44,6 +47,7 @@ I am always excited to work with highly self-motivated students on interesting r
 
 # 📝 Publications 
 
+- <span style="color:blue; font-weight:bold;">[FSE'26]</span> Jingdong Guo , Chaopeng Dong , Yimo Ren , <strong><u>Siyuan Li</u></strong> , Jie Liu , Hong Li  and Hongsong Zhu. Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study. In ACM International Conference on the Foundations of Software Engineering, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[ASE’25]</span> <strong><u>Siyuan Li</u></strong> , Yaowen Zheng , Hong Li , Jingdong Guo , Chaopeng Dong , Chunpeng Yan , Weijie Wang , Yimo Ren , Limin Sun  and Hongsong Zhu. LLM-driven Code Slice Semantic Search for Patch Presence Testing. In IEEE/ACM International Conference on Automated Software Engineering, 2025. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[TSE'25]</span> <strong><u>Siyuan Li</u></strong> , Kaiyu Xie , Yuekang Li , Hong Li , Yimo Ren , Limin Sun  and Hongsong Zhu. TransferFuzz-Pro: Large Language Model Driven Code Debugging Technology for Verifying Propagated Vulnerability. In IEEE Transactions on Software Engineering, 2025. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[ICSE'25]</span> <strong><u>Siyuan Li</u></strong> , Yuekang Li , Zuxin Chen , Chaopeng Dong , Yongpan Wang , Hong Li , Yongle Chen  and HongSong Zhu. TransferFuzz: Fuzzing with Historical Trace for Verifying Propagated Vulnerability Code. In IEEE/ACM International Conference on Software Engineering, 2025. <span style="color:red; font-weight:bold;">(CCF-A)</span>
