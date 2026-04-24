@@ -33,6 +33,7 @@ I am always excited to work with highly self-motivated students on interesting r
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper was accepted by the TDSC 2026.
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by the FSE 2026.
 - *2025.12*: &nbsp;🎉🎉 One paper was accepted by the FSE 2026.
 - *2025.11*: &nbsp;🎉🎉 Our team awarded DataCon2025大数据安全分析竞赛 「软件供应链安全赛道」 三等奖
@@ -48,6 +49,8 @@ I am always excited to work with highly self-motivated students on interesting r
 
 # 📝 Publications 
 
+- <span style="color:blue; font-weight:bold;">[FSE'26]</span> Yongpan Wang , Qi Liu , <strong><u>Siyuan Li</u></strong> , Zhen Lei , Xiaojie Zhu, Zhihui Zhao , Xiaodong Gu and Yongle Chen. 
+BinEnhance-Pro: Enhancing Binary Code Search by Distinguishing Similar but Non-Homologous Functions. Transactions on Dependable and Secure Computing, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[FSE'26]</span> Chengyue Liu , Zhengzi Xu , Kaixuan Li , Jiahui Wu , Sihao Qiu, <strong><u>Siyuan Li</u></strong> , Siyang Xiong , Yang Xiao and Yang Liu. Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale. In ACM International Conference on the Foundations of Software Engineering, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[FSE'26]</span> Jingdong Guo , Chaopeng Dong , Yimo Ren , <strong><u>Siyuan Li</u></strong> , Jie Liu , Hong Li  and Hongsong Zhu. Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study. In ACM International Conference on the Foundations of Software Engineering, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[ASE’25]</span> <strong><u>Siyuan Li</u></strong> , Yaowen Zheng , Hong Li , Jingdong Guo , Chaopeng Dong , Chunpeng Yan , Weijie Wang , Yimo Ren , Limin Sun  and Hongsong Zhu. LLM-driven Code Slice Semantic Search for Patch Presence Testing. In IEEE/ACM International Conference on Automated Software Engineering, 2025. <span style="color:red; font-weight:bold;">(CCF-A)</span>
