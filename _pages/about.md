@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor at the School of Cyber Science and Technology, Shandong University [🔗](https://faculty.sdu.edu.cn/lisiyuan12/zh_CN/index.htm). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences in 2025, and was fortunate to be advised by Prof. Hongsong Zhu and Prof. Hong Li in Limin Sun's group.
+I am an Associate Professor at the School of Cyber Science and Technology, Shandong University (Website:[🔗](https://faculty.sdu.edu.cn/lisiyuan12/zh_CN/index.htm)). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences in 2025, and was fortunate to be advised by Prof. Hongsong Zhu and Prof. Hong Li in Limin Sun's group.
 
 My research interests focus on software supply chain security, including program analysis, vulnerability analysis, and application of AI.
 My research has been published in several premier international conferences and journals, including ICSE, ASE, NDSS, TIFS, TOSEM, TSE and so on.
@@ -49,7 +49,7 @@ I am always excited to work with highly self-motivated students on interesting r
 
 # 📝 Publications 
 
-- <span style="color:blue; font-weight:bold;">[FSE'26]</span> Yongpan Wang , Qi Liu , <strong><u>Siyuan Li</u></strong> , Zhen Lei , Xiaojie Zhu, Zhihui Zhao , Xiaodong Gu and Yongle Chen. 
+- <span style="color:blue; font-weight:bold;">[TDSC'26]</span> Yongpan Wang , Qi Liu , <strong><u>Siyuan Li</u></strong> , Zhen Lei , Xiaojie Zhu, Zhihui Zhao , Xiaodong Gu and Yongle Chen. 
 BinEnhance-Pro: Enhancing Binary Code Search by Distinguishing Similar but Non-Homologous Functions. Transactions on Dependable and Secure Computing, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[FSE'26]</span> Chengyue Liu , Zhengzi Xu , Kaixuan Li , Jiahui Wu , Sihao Qiu, <strong><u>Siyuan Li</u></strong> , Siyang Xiong , Yang Xiao and Yang Liu. Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale. In ACM International Conference on the Foundations of Software Engineering, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[FSE'26]</span> Jingdong Guo , Chaopeng Dong , Yimo Ren , <strong><u>Siyuan Li</u></strong> , Jie Liu , Hong Li  and Hongsong Zhu. Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study. In ACM International Conference on the Foundations of Software Engineering, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
