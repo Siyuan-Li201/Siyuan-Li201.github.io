@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Associate Professor at the School of Cyber Science and Technology, Shandong University (Website:[🔗](https://faculty.sdu.edu.cn/lisiyuan12/zh_CN/index.htm)). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences in 2025, and was fortunate to be advised by Prof. Hongsong Zhu and Prof. Hong Li in Limin Sun's group.
+I am an Associate Professor at the School of Cyber Science and Technology, Shandong University (Personal website:[🔗](https://faculty.sdu.edu.cn/lisiyuan12/zh_CN/index.htm)). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences in 2025, and was fortunate to be advised by Prof. Hongsong Zhu and Prof. Hong Li in Limin Sun's group.
 
 My research interests focus on software supply chain security, including program analysis, vulnerability analysis, and application of AI.
 My research has been published in several premier international conferences and journals, including ICSE, ASE, NDSS, TIFS, TOSEM, TSE and so on.
