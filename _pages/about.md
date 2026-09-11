@@ -33,6 +33,7 @@ I am always excited to work with highly self-motivated students on interesting r
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 One paper was accepted by the ASE 2026.
 - *2026.04*: &nbsp;🎉🎉 One paper was accepted by the TDSC 2026.
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by the FSE 2026.
 - *2025.12*: &nbsp;🎉🎉 One paper was accepted by the FSE 2026.
@@ -49,6 +50,8 @@ I am always excited to work with highly self-motivated students on interesting r
 
 # 📝 Publications 
 
+- <span style="color:blue; font-weight:bold;">[ASE'26]</span> Kaiyu Xie, <strong><u>Siyuan Li</u></strong>, Jiaqian Peng, Yun Yang, Yaowen Zheng, Kai Cheng, Jiayu Zhang, Shizhao Tian, Yubo Li and Hongsong Zhu. 
+ExcavatorFuzz: LLM-Guided Path-Difficulty-Driven Directed GreyBox Fuzzing. In IEEE/ACM International Conference on Automated Software Engineering, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[TDSC'26]</span> Yongpan Wang , Qi Liu , <strong><u>Siyuan Li</u></strong> , Zhen Lei , Xiaojie Zhu, Zhihui Zhao , Xiaodong Gu and Yongle Chen. 
 BinEnhance-Pro: Enhancing Binary Code Search by Distinguishing Similar but Non-Homologous Functions. Transactions on Dependable and Secure Computing, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[FSE'26]</span> Chengyue Liu , Zhengzi Xu , Kaixuan Li , Jiahui Wu , Sihao Qiu, <strong><u>Siyuan Li</u></strong> , Siyang Xiong , Yang Xiao and Yang Liu. Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale. In ACM International Conference on the Foundations of Software Engineering, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
