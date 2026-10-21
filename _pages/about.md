@@ -19,28 +19,26 @@ redirect_from:
 
 I am an Associate Professor at the School of Cyber Science and Technology, Shandong University (Personal website:[🔗](https://faculty.sdu.edu.cn/lisiyuan12/zh_CN/index.htm)). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences in 2025, and was fortunate to be advised by Prof. Hongsong Zhu and Prof. Hong Li in Limin Sun's group.
 
-My research interests focus on software supply chain security, including program analysis, vulnerability analysis, and application of AI.
+My research interests focus on Software Supply Chain Security and Embodied AI (System security, development, and optimization).
 My research has been published in several premier international conferences and journals, including ICSE, ASE, NDSS, TIFS, TOSEM, TSE and so on.
 
 I am always excited to work with highly self-motivated students on interesting research problems. I particularly welcome students at all levels to join our research projects or participate in research competitions.
 
 
-# 💡 Intrests
+# 💡 Interests
 - **Software Supply Chain Security**
-  - Program Analysis, Vulnerability Analysis.
-- **Code Intelligence**
-  - Code Representation, Code Verification, Code Generation.
+  - Program Analysis, Vulnerability Analysis, Secure Code Generation.
+- **Embodied AI**
+  - System Security, System Development and Optimization.
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 One paper was accepted by the ICSE 2027.
 - *2026.08*: &nbsp;🎉🎉 One paper was accepted by the ASE 2026.
 - *2026.04*: &nbsp;🎉🎉 One paper was accepted by the TDSC 2026.
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by the FSE 2026.
 - *2025.12*: &nbsp;🎉🎉 One paper was accepted by the FSE 2026 (Distinguished Paper Award).
 - *2025.11*: &nbsp;🎉🎉 Our team awarded DataCon2025大数据安全分析竞赛 「软件供应链安全赛道」 三等奖
-- *2025.09*: &nbsp;🎉🎉 One paper was accepted by the ASE 2025.
-- *2025.09*: &nbsp;🎉🎉 One paper was accepted by the TIFS 2025.
-- *2025.07*: &nbsp;🎉🎉 One paper was accepted by the TSE 2025. 
 
 
 # 📖 Educations
@@ -49,7 +47,8 @@ I am always excited to work with highly self-motivated students on interesting r
 
 
 # 📝 Publications 
-
+- <span style="color:blue; font-weight:bold;">[ASE'26]</span><strong><u>Siyuan Li</u></strong>, Jiangyu Mo, Zizhuang Deng, Lehan Wang, Yongpan Wang, Hong Li, Hongsong Zhu, Limin Sun and Shanqing Guo. 
+AI-BOM for Firmware: Characterizing Models and Supply-Chain Risks in Edge AI Devices. In IEEE/ACM International Conference on Software Engineering, 2027. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[ASE'26]</span> Kaiyu Xie, <strong><u>Siyuan Li</u></strong>, Jiaqian Peng, Yun Yang, Yaowen Zheng, Kai Cheng, Jiayu Zhang, Shizhao Tian, Yubo Li and Hongsong Zhu. 
 ExcavatorFuzz: LLM-Guided Path-Difficulty-Driven Directed GreyBox Fuzzing. In IEEE/ACM International Conference on Automated Software Engineering, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[TDSC'26]</span> Yongpan Wang , Qi Liu , <strong><u>Siyuan Li</u></strong> , Zhen Lei , Xiaojie Zhu, Zhihui Zhao , Xiaodong Gu and Yongle Chen. 
