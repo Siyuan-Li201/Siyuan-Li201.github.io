@@ -47,7 +47,7 @@ I am always excited to work with highly self-motivated students on interesting r
 
 
 # 📝 Publications 
-- <span style="color:blue; font-weight:bold;">[ASE'26]</span><strong><u>Siyuan Li</u></strong>, Jiangyu Mo, Zizhuang Deng, Lehan Wang, Yongpan Wang, Hong Li, Hongsong Zhu, Limin Sun and Shanqing Guo. 
+- <span style="color:blue; font-weight:bold;">[ICSE'27]</span><strong><u>Siyuan Li</u></strong>, Jiangyu Mo, Zizhuang Deng, Lehan Wang, Yongpan Wang, Hong Li, Hongsong Zhu, Limin Sun and Shanqing Guo. 
 AI-BOM for Firmware: Characterizing Models and Supply-Chain Risks in Edge AI Devices. In IEEE/ACM International Conference on Software Engineering, 2027. <span style="color:red; font-weight:bold;">(CCF-A)</span>
 - <span style="color:blue; font-weight:bold;">[ASE'26]</span> Kaiyu Xie, <strong><u>Siyuan Li</u></strong>, Jiaqian Peng, Yun Yang, Yaowen Zheng, Kai Cheng, Jiayu Zhang, Shizhao Tian, Yubo Li and Hongsong Zhu. 
 ExcavatorFuzz: LLM-Guided Path-Difficulty-Driven Directed GreyBox Fuzzing. In IEEE/ACM International Conference on Automated Software Engineering, 2026. <span style="color:red; font-weight:bold;">(CCF-A)</span>
